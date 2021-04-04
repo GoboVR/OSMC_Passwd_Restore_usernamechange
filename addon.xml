@@ -11,7 +11,7 @@
         <platform>linux</platform>
         <disclaimer>For Kodi linux (tested on OSMC final)</disclaimer>
         <summary lang="en">Runs a system command to restore osmc users password.</summary>
-        <description lang="en">Simple plugin that restores osmc user password to default, credits go to zfinken on discoursel.osmc.tv.</description>
+        <description lang="en">Simple plugin that restores osmc user password to default, credits go to zfinken on https://discourse.osmc.tv/</description>
         <website>https://github.com/zjoasan/osmc_passwd_restore/</website>
         <email>joakim.s@webbkontakt.net</email>
     </extension>
