@@ -1,1 +1,1 @@
-0.0.2 Initial Aurora Launcher ripped from RetroPie launcher plugin
+0.0.1 Initial release, just restores to password to OS default. Thanks to fzinken on discourse.osmc.tv, for the simple python code.

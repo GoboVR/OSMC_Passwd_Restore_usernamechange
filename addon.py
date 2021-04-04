@@ -1,5 +1,5 @@
 """
-    Plugin for to factory restore osmc user password, thanks fzinken for the ground work
+    Plugin for to factory restore osmc user password
 """
 
 # -*- coding: UTF-8 -*-
