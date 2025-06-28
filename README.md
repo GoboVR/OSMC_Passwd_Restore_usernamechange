@@ -1,2 +1,2 @@
 # osmc_passwd_restore
-A simple addon to factory restore osmc user password.
+A simple addon to factory restore gobo user password.
